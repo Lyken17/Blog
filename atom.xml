@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Luminars]]></title>
+  <link href="lyken.syu.life/blog/atom.xml" rel="self"/>
+  <link href="lyken.syu.life/blog/"/>
+  <updated>2017-03-10T22:33:02-08:00</updated>
+  <id>lyken.syu.life/blog/</id>
+  <author>
+    <name><![CDATA[]]></name>
+    
+  </author>
+  <generator uri="http://www.coderforart.com/">CoderForArt</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Hello world]]></title>
+    <link href="lyken.syu.life/blog/14892127371363.html"/>
+    <updated>2017-03-10T22:12:17-08:00</updated>
+    <id>lyken.syu.life/blog/14892127371363.html</id>
+    <content type="html"><![CDATA[
+<p>Nice to meet you guys.</p>
+
+<p><img src="https://lh3.googleusercontent.com/-bM6Wi31betE/WMOZQCDLygI/AAAAAAAAAEU/re-UVAdXLuM/I/linear%252520shift.png" alt="linear shift"/></p>
+
+<p>\( \frac{1}{2} \)</p>
+
+]]></content>
+  </entry>
+  
+</feed>
